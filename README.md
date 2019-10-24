@@ -69,6 +69,19 @@ flatpak install flathub com.discordapp.Discord
   ```
 * Hacker Page : https://flathub.org/apps/details/org.openshot.OpenShot
 
+# Xonotic 
+
+
+* Mode d'emploi : 
+  * Pour démarrer  l'appli (et puis discord, steam...): 
+  
+  ```bash 
+  
+  flatpak run org.xonotic.Xonotic
+  ```
+* Hacker Page : https://flathub.org/apps/details/org.xonotic.Xonotic
+
+
 ## Hydra Paper (donenle les droits super utilisateurs pour chambrer son père)
 
 
@@ -140,4 +153,6 @@ flatpak run org.audacityteam.Audacity
 
 flatpak install flathub com.discordapp.Discord
 
+# Xonotic Game
+flatpak install flathub org.xonotic.Xonotic
 ```
