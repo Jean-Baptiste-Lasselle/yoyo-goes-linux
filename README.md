@@ -1,3 +1,5 @@
+Linus Torvladstalking about flatpack : https://www.youtube.com/watch?v=mysM-V5h9z8
+
 # Yoyo goes Linux
 
 Mode d'emploi PC Pour le fils d'un ami
