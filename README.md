@@ -1,4 +1,4 @@
-Linus Torvlads talking about flatpack : https://www.youtube.com/watch?v=mysM-V5h9z8
+Linus Torvalds talking about flatpack : https://www.youtube.com/watch?v=mysM-V5h9z8
 
 # Yoyo goes Linux
 
